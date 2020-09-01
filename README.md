@@ -67,7 +67,7 @@ views:
 | skip_tabs | string | | A comma seperated list of views to skip when swiping. e.g., `1,3,5`.
 | skip_hidden | boolean | true | Automatically skips hidden tabs.
 | wrap | boolean | true | Wrap from first tab to last tab and vice versa.
-| prevent_default | boolean | false | Prevents the browsers default horizontal swipe actions.
+| prevent_default | boolean | false | Prevents the browsers default horizontal swipe actions.  (Please note, on a tablet, you will need to shut down your browser and restart/reload your UI before this option will take effect.)
 | animate | string |  | Swipe animations. Can be: `swipe`, `fade`, `flip`. The swipe animation should be considered experimental and depending on your setup may appear buggy.
 
 # Thank you
