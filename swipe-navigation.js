@@ -15,6 +15,7 @@ const ignored = [
   "ROUND-SLIDER",
   "XIAOMI-VACUUM-MAP-CARD",
   "HA-SIDEBAR",
+  "SLIDER-ENTITY-ROW",
 ];
 
 function run() {
