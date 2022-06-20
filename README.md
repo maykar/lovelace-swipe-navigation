@@ -4,7 +4,7 @@ This project has been archived, but a maintained fork can be found here:
 
 https://github.com/zanna-37/hass-swipe-navigation
 
-Big thanks to @zanna-37 !
+Big thanks to [@zanna-37](https://github.com/zanna-37)!
 
 # Lovelace Swipe Navigation
 
