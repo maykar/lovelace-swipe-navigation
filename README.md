@@ -1,3 +1,11 @@
+# Archived
+
+This project has been archived, but a maintained fork can be found here:
+
+https://github.com/zanna-37/hass-swipe-navigation
+
+Big thanks to @zanna-37 !
+
 # Lovelace Swipe Navigation
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-yellow.svg)](https://github.com/custom-components/hacs) [![hacs_badge](https://img.shields.io/badge/Buy-Me%20a%20Coffee-critical)](https://www.buymeacoffee.com/FgwNR2l)
