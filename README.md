@@ -8,7 +8,7 @@ Big thanks to [@zanna-37](https://github.com/zanna-37)!
 
 # Lovelace Swipe Navigation
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-yellow.svg)](https://github.com/custom-components/hacs) [![hacs_badge](https://img.shields.io/badge/Buy-Me%20a%20Coffee-critical)](https://www.buymeacoffee.com/FgwNR2l)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-yellow.svg)](https://github.com/hacs/integration) [![hacs_badge](https://img.shields.io/badge/Buy-Me%20a%20Coffee-critical)](https://www.buymeacoffee.com/FgwNR2l)
 
 Swipe through Lovelace views on mobile.
 
