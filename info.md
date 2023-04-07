@@ -11,4 +11,4 @@
 - :coffee: [Buy me a coffee](https://www.buymeacoffee.com/FgwNR2l)
 - :red_circle: [Tip with Crypto](https://github.com/sponsors/maykar)
 - :heart: [Sponsor me on GitHub](https://github.com/sponsors/maykar)
-- :keyboard: [Help with translation, development, or documentation](https://github.com/maykar/plex_assistant)
+- :keyboard: [Help with translation, development, or documentation](https://github.com/maykar/lovelace-swipe-navigation)
